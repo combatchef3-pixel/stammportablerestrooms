@@ -1,0 +1,47 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does a standard porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Average portable toilet rental prices range from $85–$130/week. Final cost depends on location, duration, and service frequency, especially in high-demand states like Texas or Florida.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer same-day delivery for emergencies?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Emergency temporary toilet rental is available with 4–8 hour response in most metro areas in California, Texas, Florida, Georgia, and Arizona.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your ADA units available for residential use?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. ADA-compliant portable restroom rental is available for home events, medical needs, or accessibility requirements nationwide.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are flushable units serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard service is once per week. High-use events may require twice-weekly cleanings to maintain freshwater and waste capacity.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do handwashing stations require water hookups?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. All portable toilets with handwashing stations are self-contained with onboard freshwater tanks, no external plumbing needed.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
